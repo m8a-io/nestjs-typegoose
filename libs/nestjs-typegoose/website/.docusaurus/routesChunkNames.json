@@ -1,0 +1,48 @@
+{
+  "/docs-b68": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "eb54544b"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/docs/async-configuration-4ef": {
+    "__comp": "17896441",
+    "content": "16c91d09"
+  },
+  "/docs/discriminators-5e7": {
+    "__comp": "17896441",
+    "content": "99f6fac0"
+  },
+  "/docs/faq-96a": {
+    "__comp": "17896441",
+    "content": "0480b142"
+  },
+  "/docs/install-944": {
+    "__comp": "17896441",
+    "content": "c4de80f8"
+  },
+  "/docs/multiple-connections-ac1": {
+    "__comp": "17896441",
+    "content": "fb7b7bcb"
+  },
+  "/docs/schema-options-aba": {
+    "__comp": "17896441",
+    "content": "4020c8f9"
+  },
+  "/docs/testing-5e8": {
+    "__comp": "17896441",
+    "content": "fbe93038"
+  },
+  "/docs/usage-84f": {
+    "__comp": "17896441",
+    "content": "6476eba6"
+  },
+  "/-709": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "240e7a45"
+    },
+    "config": "5e9f5e1a"
+  }
+}
