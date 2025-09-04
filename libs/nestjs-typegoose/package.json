@@ -65,8 +65,8 @@
     "mongoose": "8.18.0",
     "reflect-metadata": "0.2.2",
     "rxjs": "7.8.2",
-    "superagent": "10.2.0",
-    "supertest": "7.1.0",
+    "superagent": "10.2.3",
+    "supertest": "7.1.4",
     "ts-jest": "29.4.1",
     "typescript": "5.9.2"
   },
