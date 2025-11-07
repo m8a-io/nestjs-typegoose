@@ -48,7 +48,6 @@
     "is-class": "0.0.9"
   },
   "devDependencies": {
-    "@m8a/eslint-config": "workspace:*",
     "@nestjs/common": "11.1.6",
     "@nestjs/core": "11.1.6",
     "@nestjs/platform-express": "~11.1.0",
