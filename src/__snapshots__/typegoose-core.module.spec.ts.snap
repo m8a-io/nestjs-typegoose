@@ -1,4 +1,4 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
 
 exports[`TypegooseCoreModule forAsyncRoot different types useFactory injects the factory's async options into DEFAULT_DB_CONNECTION_NAME 1`] = `
 [

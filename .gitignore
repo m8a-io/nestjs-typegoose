@@ -1,0 +1,15 @@
+node_modules
+
+# build output (built fresh before publish)
+dist
+.tsbuildinfo
+
+# test / coverage
+coverage
+
+# logs
+*.log
+npm-debug.log*
+
+# lockfile (repo convention: not committed)
+package-lock.json
