@@ -33,9 +33,7 @@ afterAll(async () => {
     TypegooseModule.forRootAsync({
       useFactory: () => {
         return {
-          uri: mongoUri,
-          useNewUrlParser: true,
-          useUnifiedTopology: true
+          uri: mongoUri
         }
       }
     })

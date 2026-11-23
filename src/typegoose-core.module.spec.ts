@@ -5,8 +5,7 @@ import {
   TYPEGOOSE_MODULE_OPTIONS,
   TYPEGOOSE_CONNECTION_NAME
 } from './typegoose.constants'
-import { DynamicModule } from '@nestjs/common'
-import { FactoryProvider, ClassProvider, Type } from '@nestjs/common/interfaces'
+import { ClassProvider, DynamicModule, FactoryProvider, Type } from '@nestjs/common'
 import { TypegooseOptionsFactory } from './typegoose-options.interface'
 
 describe('TypegooseCoreModule', () => {

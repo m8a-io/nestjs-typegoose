@@ -24,14 +24,15 @@ This package follows the major versions of Typegoose and the peer dependencies a
 :::
 ## Peer Dependencies
 
-The latest version of nestjs-typegoose (v12) requires a few peer dependencies to be installed for things to work. You need to install the following:
+The latest version of nestjs-typegoose (v13) requires a few peer dependencies to be installed for things to work. You need to install the following:
 
-- `@typegoose/typegoose` v12+
-- `@nestjs/common` v10+
-- `@nestjs/core` v10+
-- `mongoose` v8.0.1+
+- `@typegoose/typegoose` v13+
+- `@nestjs/common` v10, v11 or v12
+- `@nestjs/core` v10, v11 or v12
+- `mongoose` v9+
 
 - be sure you have TypeScript 5.2 or higher also installed
+- Node.js v20.19+ is required. NestJS v12 additionally requires Node.js v20.19+ or v22.12+ (Node.js v21 and v22.0–v22.11 are not supported), see the [NestJS migration guide](https://docs.nestjs.com/migration-guide)
 
 Using `npm`:
 

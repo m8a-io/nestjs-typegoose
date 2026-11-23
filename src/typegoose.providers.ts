@@ -1,4 +1,4 @@
-import { FactoryProvider } from '@nestjs/common/interfaces'
+import { FactoryProvider } from '@nestjs/common'
 import { getDiscriminatorModelForClass, getModelForClass } from '@typegoose/typegoose'
 import { isClass } from 'is-class'
 import { Connection } from 'mongoose'
